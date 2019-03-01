@@ -4,11 +4,9 @@
 
 ## Contacts
 
-:round_pushpin: Minsk, Belarus
+Phone number: [+375(29)2345072](tel:+375292345072) , [+375(44)7507742](tel:+375447507742)
 
-:telephone_receiver: Phone number: [+375(29)2345072](tel:+375292345072) , [+375(44)7507742](tel:+375447507742)
-
-:email: E-mail: [phitkovich@gmail.com](mailto:phitkovich@gmail.com)
+E-mail: [phitkovich@gmail.com](mailto:phitkovich@gmail.com)
 
 
 ## Summary
