@@ -1,11 +1,13 @@
 # Pavel Hitkovich
-:round_pushpin: Minsk, Belarus
 *pre-junior frontend developer*
 
 
 ## Contacts
 
-:telephone_receiver: Phone number: [+375(29)234-50-72](tel:+375292345072), [+375(44)750-77-42](tel:+375447507742)
+:round_pushpin: Minsk, Belarus
+
+:telephone_receiver: Phone number: [+375(29)2345072](tel:+375292345072) , [+375(44)7507742](tel:+375447507742)
+
 :email: E-mail: [phitkovich@gmail.com](mailto:phitkovich@gmail.com)
 
 
@@ -29,13 +31,9 @@
 
 * Belarusian National Technical University: Instrumentation Engineering Faculty. Electrician Engineer
 * finished HTML, CSS basic course at the [Codecademy.com](https://www.codecademy.com/users/pavelHitkovich8126154301/achievements)
-* finished [HTML][1], [CSS][2] basic course at the Sololearn.com
-[1]: https://www.sololearn.com/Certificate/1014-5355510/pdf/
-[2]: https://www.sololearn.com/Certificate/1023-5355510/pdf/
+* finished [HTML](https://www.sololearn.com/Certificate/1014-5355510/pdf/) and [CSS](https://www.sololearn.com/Certificate/1023-5355510/pdf/) basic courses at the Sololearn.com
 
 
 ## Foreign languages
 
-### English 
-
-Level: *A2 (Pre-intermediate)*
+**English**: *A2 (Pre-intermediate)*
