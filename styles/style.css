@@ -105,7 +105,8 @@ a.text:hover {
     top: 0;
     left: 50%;
     transform: translate(-50%);
-    background: #ffffff;     
+    background: #ffffff;
+        
 }
 
 .avatar {
@@ -239,4 +240,20 @@ footer .copyright {
     left: 40px;
     top: 14px;
     opacity: 0.3;
+}
+
+header {
+    position: fixed;  
+    top: 0;  
+    z-index: 100;  
+    width: 100%;
+}
+
+.info {
+    margin-top: 50px;
+}
+
+#info, #summary, #examples, #education, #languages, #skills {
+    position: absolute;
+    top: -50px;
 }
